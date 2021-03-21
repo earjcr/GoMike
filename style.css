@@ -13,12 +13,6 @@ button {
     outline: none!important;
 }
 
-.fontEAR {
-    font-family: helvetica, sans-serif;
-    padding: 50px;
-    text-align: center;
-}
-
 a:hover {
     text-decoration: none;
     cursor: pointer;
@@ -701,7 +695,7 @@ p {
     color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
-    font-size: 1.0em;
+    font-size: 1.5em;
     font-weight: 700;
 }
 
